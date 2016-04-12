@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jasig.cas</groupId>
+  <artifactId>cas-server-integration-redis</artifactId>
+  <versioning>
+    <release>4.2.1</release>
+    <versions>
+      <version>4.2.1</version>
+    </versions>
+    <lastUpdated>20160412024556</lastUpdated>
+  </versioning>
+</metadata>
